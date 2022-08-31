@@ -86,7 +86,7 @@
     "luxon": "^1.22.0",
     "mkdirp": "^0.5.1",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.26",
+    "moment-timezone": "^0.5.35",
     "native-promise-only": "^0.8.1",
     "rollup": "1.8.0",
     "rollup-plugin-alias": "^1.5.2",
